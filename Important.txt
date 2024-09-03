@@ -1,0 +1,8 @@
+pip install gTTS
+pip install playsound
+
+#If play sound doesn't get installed do the following two lines:
+                        pip install --upgrade setuptools wheel
+                        pip install playsound
+
+pip install pyttsx3
